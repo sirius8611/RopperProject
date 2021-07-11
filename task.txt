@@ -1,0 +1,7 @@
+1. Requirement
+  - 6 Text files => data
+  - Python program
+  - Password.txt
+  - Readme
+2. Process
+  cfg file -> SSH -> password -> password.txt -> cfg file
